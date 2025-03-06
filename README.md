@@ -10,3 +10,5 @@ Below is my daily activity tracker.
 |Day|Date|Activity|Problem|LC #|Difficulty|Type|
 |---|---|---|---|---|---|---|
 |1|3/1/25|Leetcode|tbd|tbd|Easy|Array|
+|2|3/2/25|Leetcode|tbd
+tbd|tbd|Easy|Array|
