@@ -7,7 +7,7 @@ Current streak: 5 days
 
 Below is my daily activity tracker.
 
-|Day|Date|Problem|LC #|Difficulty|Topic|Type
+|Day|Date|Problem Title|LC Problem #|Difficulty Level|Associated Topics|Type of Problem|
 |---|---|---|---|---|---|---|
 |1|3/1/25|Merge Sorted Array|88|Easy|Array, Two Pointers, Sorting|Top Interview 150|
 |2|3/2/25|Remove Element|27|Easy|Array, Two Pointers|Top Interview 150|
