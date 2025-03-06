@@ -48,7 +48,7 @@ nums is sorted in non-decreasing order.
 '''
 
 class Solution:
-    def removeDuplicates(self, nums: List[int]) -> int:
+    def removeDuplicates(self, nums: list[int]) -> int:
         
         k = 2
         

@@ -35,7 +35,7 @@ data[i] is either 0 or 1.
 
 
 class Solution:
-    def minSwaps(self, data: List[int]) -> int:
+    def minSwaps(self, data: list[int]) -> int:
         
         totalCount = 0
         
