@@ -19,4 +19,4 @@ Below is my daily activity tracker.
 |8|3/8/25|Rotate Array|189|Medium|Array, Math, Two Pointers|Top Interview 150|
 |9|3/9/25|Rotate Array|189|Medium|Array, Math, Two Pointers|Top Interview 150|
 |10|3/10/25|Rotate Array|189|Medium|Array, Math, Two Pointers|Top Interview 150|
-|11|3/11/25|Rotate Array|189|Medium|Array, Math, Two Pointers|Top Interview 150|
+|11|3/11/25|Insert Delete GetRandom O(1)|380|Medium|Array, Hash Table, Math, Design, Randomized|Top Interview 150|
