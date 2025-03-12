@@ -3,7 +3,7 @@ Solving Leetcode style problems in Python
 
 I aim to solve at least 1 problem a day and keep a long streak going!
 
-Current streak: 7 days
+Current streak: 11 days
 
 Below is my daily activity tracker.
 
@@ -16,3 +16,7 @@ Below is my daily activity tracker.
 |5|3/5/25|1. Majority Element<br>2. Count Total Number of Colored Cells<br>3. Minimum Swaps to Group All 1's Together|1. 169<br>2. 2579<br>3. 1151|1. Easy<br>2. Medium<br>3. Medium|1. Array, Hash Table, Divide & Conquer, Sorting, Counting<br>2. Math<br>3. Array, Sliding Window|1. Top Interview 150<br>2. Daily Challenge<br>3. Weekly Challenge|
 |6|3/6/25|Find Missing and Repeated Values|2965|Easy|Array, Hash Table, Math, Matrix|Daily Challenge|
 |7|3/7/25|Rotate Array|189|Medium|Array, Math, Two Pointers|Top Interview 150|
+|8|3/8/25|Rotate Array|189|Medium|Array, Math, Two Pointers|Top Interview 150|
+|9|3/9/25|Rotate Array|189|Medium|Array, Math, Two Pointers|Top Interview 150|
+|10|3/10/25|Rotate Array|189|Medium|Array, Math, Two Pointers|Top Interview 150|
+|11|3/11/25|Rotate Array|189|Medium|Array, Math, Two Pointers|Top Interview 150|
