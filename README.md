@@ -20,3 +20,5 @@ Below is my daily activity tracker.
 |9|3/9/25|Rotate Array|189|Medium|Array, Math, Two Pointers|Top Interview 150|
 |10|3/10/25|Rotate Array|189|Medium|Array, Math, Two Pointers|Top Interview 150|
 |11|3/11/25|1. H-Index<br>2. Insert Delete GetRandom O(1)|1. 274<br>2. 380|1. Medium<br>2. Medium|1. Array, Sorting, Count Sort<br>2. Array, Hash Table, Math, Design, Randomized|1. Top Interview 150<br>2. Top Interview 150|
+|12|3/12/25|Rotate Array|189|Medium|Array, Math, Two Pointers|Top Interview 150|
+|13|3/13/25|Candy|135|Hard|Array, Greedy|Top Interview 150|
