@@ -3,7 +3,7 @@ Solving Leetcode style problems in Python
 
 I aim to solve at least 1 problem a day and keep a long streak going!
 
-Current streak: 13 days
+Current streak: 15 days
 
 Below is my daily activity tracker.
 
