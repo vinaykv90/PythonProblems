@@ -1,5 +1,5 @@
 '''
-Integer to Roman - LC 12 - Medium - Array'
+Integer to Roman - LC 12 - Medium - Array
 
 Seven different symbols represent Roman numerals with the following values:
 
